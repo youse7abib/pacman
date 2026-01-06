@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    overflow: hidden;
+    background-color: #123;
+}
+
+#board{
+    background-color: black;
+}
+
